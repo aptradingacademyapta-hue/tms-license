@@ -1,0 +1,3 @@
+TX1001=active
+TX1002=blocked
+TX1003=active
