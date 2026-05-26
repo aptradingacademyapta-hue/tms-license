@@ -1,3 +1,3 @@
 TX-NIZAAR-01=active
-TX1002=blocked
+TX-MURUGAN-01=active
 TX1003=active
